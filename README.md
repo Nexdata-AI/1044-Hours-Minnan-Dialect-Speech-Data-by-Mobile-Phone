@@ -2,7 +2,7 @@
 
 ## Description
 Hokkien(China) Dialect Scripted Monologue Smartphone speech dataset, collected from monologue based on given prompts, covering short message and other 30+ customer consultation domains. Transcribed with text content, gender, age, accent and other attributes. Our dataset was collected from extensive and diversify speakers(2496 people, which come from Quanzhou, Zhangzhou, Taiwan, Xiamen and other sourthern China districts), geographicly speaking, enhancing model performance in real and complex tasks.nQuality tested by various AI companies. We strictly adhere to data protection regulations and privacy standards, ensuring the maintenance of user privacy and legal rights throughout the data collection, storage, and usage processes, our datasets are all GDPR, CCPA, PIPL complied.
-For more details, please refer to the link: https://www.nexdata.ai/datasets/50?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/50?source=Github
 
 
 # Specifications
